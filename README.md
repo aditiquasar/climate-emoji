@@ -33,13 +33,12 @@ This project is open source and available under the MIT License.
 
 Aditi (Student)
 
-### Contact
 
-GitHub: @aditiquasar
+## Contact
 
-LinkedIn: Connect with me on LinkedIn
-
-Email: work.aditi.s.dubey@gmail.com
+- GitHub: [@aditiquasar](https://github.com/aditiquasar)
+- LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/aditiquasar/)
+- Email: work.aditi.s.dubey@gmail.com
 
 
 ### ⭐ Show your support
