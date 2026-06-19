@@ -34,8 +34,11 @@ This project is open source and available under the MIT License.
 Aditi (Student)
 
 ### Contact
+
 GitHub: @aditiquasar
+
 LinkedIn: Connect with me on LinkedIn
+
 Email: work.aditi.s.dubey@gmail.com
 
 
